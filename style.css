@@ -1,0 +1,19 @@
+@import url(// f);
+
+:root{
+    --cor-principal:var(--cor-principal)
+    --cor-secundari:var(--cor-principal)
+    --cor-destaque:var(--cor-principal)
+
+
+}
+
+body{
+    font-family: "chakra petch", sans-serif;
+}
+
+h1,
+h2,
+h5,{
+    
+}
